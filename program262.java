@@ -30,6 +30,6 @@ class program261
         iRet = CountCapital(name);
 
         System.out.println("Number of capital characters are: "+iRet);
-        
+        sobj.close();
     }
 }
