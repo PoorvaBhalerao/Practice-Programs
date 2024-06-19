@@ -1,4 +1,4 @@
-// Write a program accept number fro user and 
+// Write a program accept number from user and 
 //display addition all factors of that number.
 //using Recursion
 

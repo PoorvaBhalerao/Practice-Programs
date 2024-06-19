@@ -1,4 +1,5 @@
-//Accept no from user and display sum of its digits using iteration as well as recursion.
+//Accept no from user and 
+//display sum of its digits using iteration as well as recursion.
 
 #include<iostream>
 using namespace std;

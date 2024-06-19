@@ -1,5 +1,5 @@
 // Write a program which accept one number and 
-//display digits of number in reverse order using recursion
+//count no of digits of number using recursion
 
 #include<iostream>
 using namespace std;

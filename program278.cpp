@@ -1,4 +1,4 @@
-//Write a program accept no from user using while which display  no to 1(reverse order) on screen.
+//Write a program accept no from user using while loop display  no to 1(reverse order) on screen.
 
 #include<iostream>
 using namespace std;

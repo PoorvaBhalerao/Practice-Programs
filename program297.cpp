@@ -1,4 +1,5 @@
-// Write a program accept number fro user and display all factors of that number.
+// Write a program accept number fro user and 
+//display all factors of that number.
 //using Recursion
 
 #include<iostream>

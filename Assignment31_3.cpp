@@ -26,7 +26,7 @@ void RevWords(char *str)
     
     while(*wordend != '\0')
     {
-        while((*wordend) && (*wordend != ' '))
+        while((*wordend != '\0') && (*wordend != ' '))
         {
             wordend++;
         }
@@ -34,7 +34,7 @@ void RevWords(char *str)
         reverseword(wordstart, wordend-1);
 
         wordstart = wordend;
-        if(*wordstart)
+        if(*wordstart != '\0')
         {
             wordstart++;
         }
